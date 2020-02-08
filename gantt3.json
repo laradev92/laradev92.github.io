@@ -1,5 +1,5 @@
 {"tasks":    [
-      {"id": 1,
+      {"id": -1,
        "name": "Travaux Suresnes 2020",
        "progress": 0,
        "progressByWorklog": false,
@@ -27,7 +27,7 @@
          }
        ],
        "hasChild": true},
-      {"id": 2,
+      {"id": -2,
        "name": "Depose carrelage",
        "progress": 0,
        "progressByWorklog": false,
@@ -55,7 +55,6 @@
          }
        ],
        "hasChild": true}
-
     ],
       "resources": [
       {"id": "tmp_1", "name": "Dulac"},
