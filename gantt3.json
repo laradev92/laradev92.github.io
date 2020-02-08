@@ -1,0 +1,42 @@
+{"tasks":    [
+      {"id": -1,
+       "name": "Gantt editor Essai",
+       "progress": 0,
+       "progressByWorklog": false,
+       "relevance": 0,
+       "type": "",
+       "typeId": "",
+       "description": "Task essai",
+       "code": "",
+       "level": 0,
+       "status": "STATUS_ACTIVE",
+       "depends": "",
+       "canWrite": true,
+       "start": 1396994400000,
+       "duration": 20,
+       "end": 1399586399999,
+       "startIsMilestone": false,
+       "endIsMilestone": false,
+       "collapsed": false,
+       "assigs": [],
+       "hasChild": true}
+    ],
+      "resources": [
+      {"id": "tmp_1", "name": "Resource 1"},
+      {"id": "tmp_2", "name": "Resource 2"},
+      {"id": "tmp_3", "name": "Resource 3"},
+      {"id": "tmp_4", "name": "Resource 4"},
+      {"id": "tmp_5", "name": "Resource 5"}
+    ],
+      "roles":       [
+      {"id": "tmp_1",
+      "name": "Project Manager"},
+      {"id": "tmp_2",
+      "name": "Worker"},
+      {"id": "tmp_3",
+      "name": "Stakeholder"},
+      {"id": "tmp_4",
+      "name": "Customer"}
+    ]
+}
+
