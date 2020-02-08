@@ -19,13 +19,8 @@
        "endIsMilestone": false,
        "collapsed": false,
        "assigs":[
-       {    
-           "resourceId":"tmp_1",
-          "id":"tmp_1345624980735",
-          "roleId":"tmp_1",
-          "effort":36000000
-       }     
-    ]
+
+    ],
        "hasChild": true}
     ]
       "resources": [
