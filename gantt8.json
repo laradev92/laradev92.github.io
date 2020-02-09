@@ -25,7 +25,8 @@
           "roleId":"tmp_1",
           "effort":36000000
          }
-       ]
+       ],
+       "hasChild": true},
       "resources": [
       {"id": "tmp_1", "name": "Dulac"},
       {"id": "tmp_2", "name": "Duchamp"},
