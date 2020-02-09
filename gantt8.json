@@ -1,0 +1,47 @@
+{"tasks":    [
+      {"id": 1,
+       "name": "Travaux Suresnes 2020",
+       "progress": 0,
+       "progressByWorklog": false,
+       "relevance": 0,
+       "type": "",
+       "typeId": "",
+       "description": "Travaux Suresnes 2020",
+       "code": "Tsk1",
+       "level": 0,
+       "status": "STATUS_ACTIVE",
+       "depends": "",
+       "canWrite": true,
+       "start": 1581206400000,
+       "duration": 26,
+       "end": 1582848000000,
+       "startIsMilestone": false,
+       "endIsMilestone": false,
+       "collapsed": false,
+       "assigs":[
+        {
+          "resourceId":"tmp_1",
+          "id":"tmp_1345624980735",
+          "roleId":"tmp_1",
+          "effort":36000000
+         }
+       ]
+      "resources": [
+      {"id": "tmp_1", "name": "Dulac"},
+      {"id": "tmp_2", "name": "Duchamp"},
+      {"id": "tmp_3", "name": "Dulac"},
+      {"id": "tmp_4", "name": "Dumoulin"},
+      {"id": "tmp_5", "name": "Dupont"}
+    ],
+      "roles":       [
+      {"id": "tmp_1",
+      "name": "Project Manager"},
+      {"id": "tmp_2",
+      "name": "Worker"},
+      {"id": "tmp_3",
+      "name": "Stakeholder"},
+      {"id": "tmp_4",
+      "name": "Customer"}
+    ]
+}
+
