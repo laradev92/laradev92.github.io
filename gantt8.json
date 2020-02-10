@@ -69,10 +69,10 @@
        "depends": "2",
        "canWrite": true,
        "start": "2020-03-06T00:00:00",
-       "duration": 0,
+       "duration": 1 ,
        "end": "2020-03-07T00:00:00",
-       "startIsMilestone": true,
-       "endIsMilestone": true,
+       "startIsMilestone": false,
+       "endIsMilestone": false,
        "collapsed": false,
        "assigs":[
         {
