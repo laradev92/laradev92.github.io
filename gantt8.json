@@ -199,7 +199,7 @@
        "code": "Tsk8",
        "level": 1,
        "status": "STATUS_ACTIVE",
-       "depends": "2,3",
+       "depends": "2,3,7",
        "canWrite": true,
        "start": "2020-03-21T00:00:00",
        "duration": 5,
