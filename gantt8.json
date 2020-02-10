@@ -41,7 +41,7 @@
        "depends": "",
        "canWrite": true,
        "start": "2020-02-11T00:00:00",
-       "duration": 0,
+       "duration": 30,
        "end": "2020-02-11T00:00:00",
        "startIsMilestone": true,
        "endIsMilestone": true,
